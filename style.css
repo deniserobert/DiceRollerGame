@@ -1,0 +1,58 @@
+.container {
+    text-align: center;
+    width: 80%;
+    margin: 30px auto;
+
+}
+
+.dice1, .dice2 {
+    margin-top: 2%;
+    display: inline-block;
+    text-align: center;
+}
+
+.dice1 {
+    margin-right: 50px;
+}
+
+body {
+    background-color: #393E46;
+}
+
+h1 {
+    margin-top: 5%;
+    font-family: 'Major Mono Display', monospace;
+    font-size: 4rem;
+    text-shadow: 5px 0 black;
+    color: #4ECCa3;
+
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 2px 0 black;
+    color: #4ECCa3;
+}
+
+img {
+    width: 100%;
+}
+
+footer {
+    font-family: 'Major Mono Display', monospace;
+    font-size: 2rem;
+    margin-top: 15%;
+    text-align: center;
+}
+
+button {
+    background-color: #4ECCa3; /* Green */
+    font-family: 'Major Mono Display', monospace;
+    border-radius: 20px;
+    color: black;
+    padding: 18px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 5%;
+}
